@@ -442,7 +442,7 @@ img{
 
  #compt_left i, #compt_right i{
      font-size: 4rem;
-     background: -webkit-linear-gradient(#463AE3, #872BDC);
+     background: -webkit-linear-gradient(90deg, #872BDC 0 50%, #463AE3  40% 100%);
      -webkit-background-clip: text;
      -webkit-text-fill-color: transparent;
  }
